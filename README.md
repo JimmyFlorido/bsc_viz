@@ -1,8 +1,3 @@
----
-title: My page
-my_variable: bsc_basic.html
----
-
 # Bright Stars Catalogue View
 
 ## Introdução
@@ -22,5 +17,3 @@ Neste repositório será posto o notebook com as devidas manipulações e visual
 Faço uso de um Python notebook para construir as visualizações, que são simples, no entanto, faço o uso inédito (para mim) de gráficos 3D, as quais nunca tiveram serventia até necessitar observar as estrelas por meio de 3 dimensões ao mesmo tempo.
 
 ## Descobertas
-
-[Title](bsc_basic.html)
