@@ -1,3 +1,8 @@
+---
+title: My page
+my_variable: bsc_basic.html
+---
+
 # Bright Stars Catalogue View
 
 ## Introdução
@@ -18,3 +23,4 @@ Faço uso de um Python notebook para construir as visualizações, que são simp
 
 ## Descobertas
 
+[Title](bsc_basic.html)
