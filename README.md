@@ -9,7 +9,7 @@ Astronomia é uma tema que não domino e passou longe da minha vida, mas fiz uma
 
 Aqui está a minha foto no Atacama com as estrelas: 
 
-![Alt text](Jimmy.png)
+![AtacamaNight](images/Jimmy.png)
 
 
 Neste repositório será posto o notebook com as devidas manipulações e visualizações de dados, e permeia mais a ideia de visualizar as estrelas sob o prisma dos dados, do que fazer algo mais elaborado, como buscar evidências empíricas para certos questionamentos. Não tenho carga intelectual ou de conhecimento para fazer perguntas sobre os cosmos, isto é algo que faço com facilidade em temas de negócio ou sócio-econômicos, mas no terreno da Física... Esquece!
@@ -17,3 +17,4 @@ Neste repositório será posto o notebook com as devidas manipulações e visual
 Faço uso de um Python notebook para construir as visualizações, que são simples, no entanto, faço o uso inédito (para mim) de gráficos 3D, as quais nunca tiveram serventia até necessitar observar as estrelas por meio de 3 dimensões ao mesmo tempo.
 
 ## Descobertas
+
